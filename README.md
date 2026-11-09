@@ -1,3 +1,8 @@
+# CICT Org Fair
+
+Live Web App:
+https://builtbyelli.github.io/cict-org-fair/
+
 # org_fair
 
 A new Flutter project.
